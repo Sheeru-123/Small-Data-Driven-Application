@@ -1,0 +1,45 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.sidebar {
+  background-color: #1f2933;
+  min-height: 100vh;
+  color: white;
+  padding: 15px;
+}
+
+.sidebar .nav-item {
+  padding: 10px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.sidebar .nav-item:hover {
+  background-color: #374151;
+}
+
+.section {
+  display: none;
+}
+
+.section.active {
+  display: block;
+}
+
+
+.navbar {
+  background-color: #2563eb !important;
+}
+
+.table th {
+  cursor: pointer;
+}
+
+.table tbody tr {
+  transition: background-color 0.3s;
+}
+
+.table tbody tr:hover {
+  background-color: #e0e7ff;
+}
