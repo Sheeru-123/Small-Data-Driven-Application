@@ -70,11 +70,7 @@ Built with:
 git clone https://github.com/sheeru-123/Small-Data-Driven-Application.git
 
 
-## ✅ Conclusion
 
-This project showcases my ability to build a **clean, responsive, and data-driven web application** using **vanilla JavaScript** without relying on frameworks. It demonstrates my understanding of **SPA concepts, DOM manipulation, state handling, filtering, sorting, and responsive UI design**.
-
-The application follows all the given requirements and reflects my focus on **code clarity, usability, and maintainability**.
 
 
 
